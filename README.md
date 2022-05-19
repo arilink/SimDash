@@ -56,3 +56,15 @@ Different games have different ways of obtaining telemetry data. To sum up. ther
 * Detailed data analysis 
 * More cool dashboards
 * More customization options
+
+## Racing Analysis
+### Database
+* TDengine
+* InfluxDB
+* MySQL
+
+### Data Visualization
+* Echarts
+* Grafana
+
+
